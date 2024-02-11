@@ -39,12 +39,10 @@ Step 6: Sales trends for the years 2018 and 2019 are examined to identify fluctu
 5. In 2019, a consistent decline in sales is observed throughout the year, with Q4 experiencing a significant decrease in revenue compared to other quarters.
 
 # Recommendations:
-Investigate the significant drop in sales in Q4 2019 to identify contributing factors and plan strategies for improvement in the following year.
+1. Investigate the significant drop in sales in Q4 2019 to identify contributing factors and plan strategies for improvement in the following year.
 
-Develop strategies such as promotions, discounts, or incentives to boost sales performance, especially during the last quarter.
+2. Develop strategies such as promotions, discounts, or incentives to boost sales performance, especially during the last quarter.
 
-Explore opportunities to expand the sales team, particularly in regions with potential growth like California, Arizona, and New Mexico.
+3. Explore opportunities to expand the sales team, particularly in regions with potential growth like California, Arizona, and New Mexico.
 
-Regularly monitor sales trends and adapt strategies accordingly to address changing market conditions and maintain or improve sales performance.
-
-
+4. Regularly monitor sales trends and adapt strategies accordingly to address changing market conditions and maintain or improve sales performance.
