@@ -9,6 +9,7 @@ Presentation: https://www.linkedin.com/posts/maria-imuede-a7230152_my-1st-projec
 ## Problem Statement
 
 The sales dashboard project aims to analyze sales performance, identify key trends, and propose recommendations to elevate the sales strategy for the company. Through interactive Excel dashboards, various key performance indicators (KPIs) are examined to gain insights into revenue, sales team performance, customer engagement, and product portfolio.
+Dataset provided by: https://www.linkedin.com/company/quantum-analytics-ng/
 
 ### Steps followed 
 
